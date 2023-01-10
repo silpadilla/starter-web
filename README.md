@@ -21,3 +21,8 @@ local file system.
 
 ## How to Contribute
 
+
+### Copyright
+
+2022 Git.Training.
+
